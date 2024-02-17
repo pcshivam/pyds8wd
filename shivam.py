@@ -1,4 +1,4 @@
-def even_num(n):
+﻿def even_num(n):
     if n%2 == 0:
         print("Number is even")
 
@@ -9,3 +9,5 @@ def even_num(n):
 even_num(20)
 
 print("Hi")
+
+print("How are you?")
